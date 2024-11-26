@@ -1,0 +1,49 @@
+.flag {
+    width: 400px;
+    height: 250px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+*{
+    background-color: black
+}
+
+*{
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
